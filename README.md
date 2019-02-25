@@ -5,3 +5,6 @@ Google are pulling the plug on Google plus in March 2019, so this community http
 
 Please use the issues tab for discussion. I'll put announcements and other static info in the wiki section.
 
+gitter chat room
+https://gitter.im/desktopliberation/community
+
